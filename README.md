@@ -1,8 +1,9 @@
 # Consequence Warehouse Safety Proof Kit
 
-Consequence Warehouse Safety is a private-core warehouse robot safety prototype
-for showing how shared consequence memory can help a robot fleet avoid repeated
-harm, recover from route failures, and keep delivery useful after disruption.
+Consequence Warehouse Safety is a private-core warehouse robot safety simulator
+and evidence prototype for showing how shared consequence memory can help a
+robot fleet avoid repeated harm, recover from route failures, and keep delivery
+useful after disruption.
 
 It records harmful outcomes as danger memory, useful crossings as success
 memory, weak paths as candidates, stale routes as demotion targets, and energy
@@ -66,8 +67,8 @@ The `v1.6` warehouse evidence summary reports the following 10-seed mean result:
 
 The private implementation remains closed. Access to the private repository,
 source distribution, benchmark internals, full evidence runs, or commercial
-evaluation requires written permission from Motion-TimeSpace / Martin Ollett
-and may require a signed NDA.
+evaluation requires written permission from TWO HANDS NETWORK LTD / Martin
+Ollett and may require a signed NDA.
 
 Start with:
 
@@ -76,6 +77,7 @@ Start with:
 - [Commercial Use](COMMERCIAL_USE.md)
 - [Public Materials License](LICENSE.md)
 - [Proof Scope](PROOF_SCOPE.md)
+- [Publication Checklist](PUBLICATION_CHECKLIST.md)
 
 ## Buyer And Reviewer Materials
 
@@ -84,6 +86,7 @@ Start with:
 - [Architecture overview](docs/architecture-overview.md)
 - [Interface screenshots](docs/interface-screenshots.md)
 - [Access request checklist](docs/access-request-checklist.md)
+- [Publication review](PUBLICATION_REVIEW.md)
 
 ## Publication Boundary
 
@@ -93,4 +96,3 @@ without receiving the private engine.
 The public proof kit can be cited, reviewed, and linked for evaluation. The
 implementation, private release artifacts, benchmark internals, and commercial
 use rights remain private unless granted separately in writing.
-

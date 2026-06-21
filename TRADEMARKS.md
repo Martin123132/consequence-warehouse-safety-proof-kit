@@ -10,4 +10,3 @@ the public materials with attribution.
 No right is granted to use the names or marks as part of a product, service,
 company, model, hosted system, repository, package, or commercial integration
 without written permission.
-

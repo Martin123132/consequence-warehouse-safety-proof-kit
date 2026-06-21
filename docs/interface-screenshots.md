@@ -1,6 +1,19 @@
 # Interface Screenshots
 
-This proof kit includes a public-safe operator dashboard concept image.
+This proof kit includes public-safe operator dashboard images. They show the
+proof surface without publishing private dashboard source code or engine code.
+
+## Live Dashboard Capture
+
+Desktop:
+
+![Live operator dashboard desktop capture](assets/operator-dashboard-live-desktop.png)
+
+Mobile:
+
+![Live operator dashboard mobile capture](assets/operator-dashboard-live-mobile.png)
+
+## Concept Image
 
 ![Operator dashboard concept](assets/operator-dashboard-concept.png)
 
@@ -11,6 +24,7 @@ This proof kit includes a public-safe operator dashboard concept image.
 - proof-oriented metrics
 - evidence handoff direction
 - dashboard direction for private engine review
+- desktop and mobile layout direction
 
 ## What The Interface Does Not Include
 
@@ -19,4 +33,3 @@ This proof kit includes a public-safe operator dashboard concept image.
 - private generated run folders
 - customer data
 - commercial deployment tooling
-

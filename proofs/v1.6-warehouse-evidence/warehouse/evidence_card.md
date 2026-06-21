@@ -1,6 +1,6 @@
 # Warehouse Evidence Card
 
-## Claim
+## Simulator Claim
 
 Shared consequence memory helps warehouse robot fleets avoid repeated damage,
 recover from route failures, and improve throughput after disruption.
@@ -41,9 +41,9 @@ damage, reduce fault exposure, and spend less energy per successful delivery.
 ## Limitations
 
 - This card summarizes a seeded benchmark, not a real warehouse deployment.
+- This card is not a production safety certification.
 - Results should be checked against customer-specific layouts and robot
   constraints before any safety claim is made in production.
 - The private engine and raw run folders are not included in this public proof
   kit.
 - This evidence does not grant commercial use rights.
-

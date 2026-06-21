@@ -41,6 +41,5 @@ Commercial license requests should include:
 - any requested changes to attribution, warranty, support, or redistribution
   terms
 
-No commercial license is granted unless agreed in writing by Motion-TimeSpace /
-Martin Ollett or the relevant rights holder.
-
+No commercial license is granted unless agreed in writing by TWO HANDS NETWORK
+LTD / Martin Ollett or the relevant rights holder.

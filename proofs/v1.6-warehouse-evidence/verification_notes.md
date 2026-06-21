@@ -9,13 +9,13 @@ source, raw run folders, or generated evidence bundles.
 The private project recorded the following source and evidence hashes at the
 time this proof kit was prepared:
 
-| Private artifact | SHA-256 |
+| Private artifact reference | SHA-256 |
 | --- | --- |
-| `evidence/source/Untitled263.ipynb` | `5BB15140FA5CE4181CB7B4D88476C4FBA7F91C1712113FDA9DAE2A8656A1D16C` |
-| `evidence/source/warehouse_v16_notebook_cell.py` | `E31ECE0976AC9C6C844E53B73EB39E0F1A902F1E323DBC7A5BED4FEE3EC30F30` |
-| `tests/snapshots/v16_seed1_key_metrics.json` | `0EC6012587AFDCD5A8683D57D7D3805D27282949A6629B71A69A17A7B3EBE005` |
-| `evidence/runs/v16_full/summary.json` | `F33F5C6024C00F5EB8DC6106D24508184B5FECDA742DF8AFCF45E7B2AEE0D9DC` |
-| `evidence/runs/v16_full/comparison.json` | `A4A204E1691B4F787C54D633E8D20748F9E9F2989F7F2EC9868B5DE60A58172A` |
+| source notebook artifact | `5BB15140FA5CE4181CB7B4D88476C4FBA7F91C1712113FDA9DAE2A8656A1D16C` |
+| extracted warehouse source snapshot | `E31ECE0976AC9C6C844E53B73EB39E0F1A902F1E323DBC7A5BED4FEE3EC30F30` |
+| compact regression snapshot | `0EC6012587AFDCD5A8683D57D7D3805D27282949A6629B71A69A17A7B3EBE005` |
+| full v1.6 summary artifact | `F33F5C6024C00F5EB8DC6106D24508184B5FECDA742DF8AFCF45E7B2AEE0D9DC` |
+| full v1.6 comparison artifact | `A4A204E1691B4F787C54D633E8D20748F9E9F2989F7F2EC9868B5DE60A58172A` |
 
 These hashes are included as provenance references only. The private artifacts
 themselves are not included in this public proof kit.
@@ -36,4 +36,3 @@ Private validation output remains outside this public repository.
 
 To reproduce the result from source, request private engine access. Access may
 require written approval, NDA, and separate commercial or evaluation terms.
-

@@ -1,6 +1,6 @@
 # Consequence Warehouse Safety Proof Kit Public Materials License
 
-Copyright (c) 2026 Motion-TimeSpace / Martin Ollett.
+Copyright (c) 2026 TWO HANDS NETWORK LTD / Martin Ollett.
 
 All rights reserved.
 
@@ -21,9 +21,8 @@ reserved for a separate written agreement.
 
 Attribution must be preserved in quoted or shared excerpts:
 
-> Based on Consequence Warehouse Safety by Motion-TimeSpace / Martin Ollett.
+> Based on Consequence Warehouse Safety by TWO HANDS NETWORK LTD / Martin Ollett.
 
 These materials are provided "as is", without warranty of any kind, express or
 implied. The author and copyright holder are not liable for any claim, damages,
 or other liability arising from use of these materials.
-

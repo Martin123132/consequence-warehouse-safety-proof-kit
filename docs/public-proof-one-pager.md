@@ -1,6 +1,6 @@
 # Public Proof One-Pager
 
-## Claim
+## Simulator Claim
 
 Shared consequence memory helps warehouse robot fleets avoid repeated damage,
 recover from route failures, and improve useful delivery after disruption.
@@ -40,6 +40,6 @@ delivery in the locked benchmark.
 
 ## Boundary
 
-This is a public proof summary. The private engine, implementation, full run
-folders, notebook source, and commercial use rights are not included.
-
+This is a public simulator proof summary. It is not a production safety
+certification. The private engine, implementation, full run folders, notebook
+source, and commercial use rights are not included.
