@@ -1,0 +1,45 @@
+{
+  "project": "Consequence Warehouse Safety",
+  "proof": "v1.6 warehouse evidence",
+  "scenario": "warehouse_v16_default",
+  "seeds": 10,
+  "configuration": {
+    "grid_size": 60,
+    "robots": 25,
+    "packages": 40,
+    "steps": 2600,
+    "disruption_step": 500,
+    "gate_shift_step": 1500
+  },
+  "baseline_mode": "baseline",
+  "primary_mode": "adaptive_candidate_efficient",
+  "metrics": {
+    "delivered_packages": {
+      "baseline": 13.0,
+      "consequence_aware": 24.0,
+      "absolute_change": 11.0
+    },
+    "post_shift_damage": {
+      "baseline": 1329.2,
+      "consequence_aware": 151.8,
+      "relative_change_percent": -88.6
+    },
+    "fault_hits": {
+      "baseline": 1122.4,
+      "consequence_aware": 284.3,
+      "relative_change_percent": -74.7
+    },
+    "energy_per_delivery": {
+      "baseline": 6358.05,
+      "consequence_aware": 3883.14,
+      "relative_change_percent": -38.9
+    }
+  },
+  "public_boundary": {
+    "engine_included": false,
+    "raw_run_folders_included": false,
+    "commercial_license_granted": false,
+    "model_training_license_granted": false
+  }
+}
+

@@ -1,0 +1,17 @@
+.tmp/
+*.log
+*.pid
+node_modules/
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.zip
+*.tar.gz
+*.7z
+private/
+engine/
+src/
+evidence/raw/
+evidence/runs/
+
