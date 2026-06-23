@@ -1,8 +1,12 @@
 # Trademarks
 
-Consequence Warehouse Safety, Consequence Memory, Motion-TimeSpace, related
-names, logos, product identities, and confusingly similar marks are not licensed
-by this proof kit.
+Consequence Warehouse Safety, related names, logos, product identities, and
+confusingly similar marks are not licensed by this proof kit.
+
+References to Consequence Memory or Motion-TimeSpace, where present, are
+descriptive family or provenance references only. They are not part of the
+public product identity granted by this proof kit, and no rights in those names
+or marks are licensed here.
 
 You may use the names only to refer accurately to this proof kit or to discuss
 the public materials with attribution.

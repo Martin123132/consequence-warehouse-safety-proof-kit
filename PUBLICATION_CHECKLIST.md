@@ -1,13 +1,15 @@
 # Publication Checklist
 
-Use this checklist before making this proof kit public or pushing it to GitHub.
+Use this checklist before pushing future proof-kit updates to GitHub.
 
 ## Repository Boundary
 
 - [ ] Repository name is intended to be `consequence-warehouse-safety-proof-kit`.
 - [ ] The private engine repository remains separate as `consequence-warehouse-safety`.
-- [ ] No GitHub remote is attached until the final publication decision.
-- [ ] No GitHub Actions workflows are enabled by default.
+- [ ] Local proof-kit checkout tracks the intended public remote:
+      `https://github.com/Martin123132/consequence-warehouse-safety-proof-kit.git`.
+- [ ] The private engine remains local-only with no GitHub remote.
+- [ ] No GitHub Actions workflows are committed in this proof kit.
 - [ ] The public repo is a proof kit, not an open-source release.
 
 ## File Safety
@@ -60,10 +62,12 @@ Run these before publication:
 ```powershell
 git status -sb
 git remote -v
+git -C D:\Users\ollet\Projects\consequence-warehouse-safety remote -v
 git ls-files
 rg -n --glob "!PUBLICATION_CHECKLIST.md" "API_KEY|SECRET|TOKEN|PASSWORD|BEGIN PRIVATE KEY|gho_|sk-[A-Za-z0-9]" .
 git ls-files | Select-String -Pattern "(^|/)src/|(^|/)engine/|(^|/)private/|\\.py$|\\.ipynb$|\\.js$|\\.ts$|\\.html$|\\.css$|evidence/runs|evidence/raw"
 ```
 
-Expected result: clean working tree, no remote unless deliberately added, no
-secret hits, and no private source or raw evidence files tracked.
+Expected result: clean working tree, proof-kit remote points to the public proof
+kit, private-engine remote output is empty, no secret hits, and no private
+source or raw evidence files tracked.
