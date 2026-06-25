@@ -10,7 +10,8 @@ Use this checklist before pushing future proof-kit updates to GitHub.
       `https://github.com/Martin123132/consequence-warehouse-safety-proof-kit.git`.
 - [ ] The private engine remains local-only with no GitHub remote.
 - [ ] No GitHub Actions workflows are committed in this proof kit.
-- [ ] The public repo is a proof kit, not an open-source release.
+- [ ] The public repo is a source-available proof kit, not an open-source
+      release and not a commercial grant.
 
 ## File Safety
 
@@ -27,9 +28,11 @@ Use this checklist before pushing future proof-kit updates to GitHub.
 
 ## Licence And Access Boundary
 
-- [ ] `LICENSE.md` states public review only.
+- [ ] `LICENSE.md` uses the PolyForm Noncommercial License 1.0.0 pattern and
+      required TWO HANDS NETWORK LTD notices.
 - [ ] `NOTICE.md` states the private implementation remains separate.
 - [ ] `COMMERCIAL_USE.md` says commercial use requires written permission.
+- [ ] `COMMERCIAL-LICENSE.md` explains the commercial licensing path.
 - [ ] `ACCESS_REQUEST.md` explains how to request private review.
 - [ ] `NDA_ACCESS.md` explains that private access may require an NDA.
 - [ ] `PROOF_SCOPE.md` lists included and excluded materials.

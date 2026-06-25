@@ -7,6 +7,10 @@ Private access may be considered for serious technical review, diligence,
 research review, customer discovery, pilot planning, or commercial licensing
 discussion.
 
+Commercial licensing enquiries should be directed to the COO of TWO HANDS
+NETWORK LTD or the company licensing contact designated by TWO HANDS NETWORK
+LTD.
+
 ## Request Checklist
 
 Before requesting access, please prepare:
@@ -31,8 +35,8 @@ Possible access levels:
 - NDA-bound technical review
 - customer-run pilot
 - owner-run pilot on approved sample data
-- commercial licensing discussion
+- commercial licensing discussion with TWO HANDS NETWORK LTD
 
 Private source access is not automatic. It requires written approval and may
-require a signed NDA or commercial evaluation agreement.
-
+require a signed NDA, commercial evaluation agreement, or separate written
+commercial license.

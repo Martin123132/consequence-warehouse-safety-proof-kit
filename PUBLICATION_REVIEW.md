@@ -19,8 +19,12 @@ The private engine has no GitHub remote at the time of this review.
 - Added live desktop and mobile dashboard screenshots.
 - Tightened the wording from broad safety claims to seeded simulator proof
   claims.
-- Aligned commercial permission language with the TWO HANDS NETWORK LTD /
-  Martin Ollett style used in the Memento Mori licence pattern.
+- Aligned public proof-kit licence language with the current TWO HANDS NETWORK
+  LTD PolyForm Noncommercial pattern: personal/non-commercial use is permitted,
+  and commercial use requires a separate written commercial licence.
+- Added explicit commercial-licensing direction to contact the COO of TWO HANDS
+  NETWORK LTD or the company licensing contact designated by TWO HANDS NETWORK
+  LTD.
 - Added a publication checklist for source, evidence, licence, and claim safety.
 - Confirmed the public proof kit has no GitHub Actions workflow directory.
 - Confirmed the private engine remains local-only.

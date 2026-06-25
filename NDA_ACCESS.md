@@ -27,3 +27,6 @@ materials.
 GitHub collaborator access is only an access mechanism. It is not a licence,
 commercial permission, or waiver of confidentiality.
 
+Commercial licensing enquiries should be directed to the COO of TWO HANDS
+NETWORK LTD or the company licensing contact designated by TWO HANDS NETWORK
+LTD.

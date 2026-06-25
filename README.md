@@ -12,8 +12,10 @@ into a reproducible Python simulator, scenario runner, evidence reports, tests,
 and a local operator dashboard.
 
 This public repository is not the product source code and is not an open-source
-release. It is a proof kit: public-safe evidence, screenshots, evaluation notes,
-and an access path for people who want to request private review.
+release. It is a source-available proof kit for personal and non-commercial
+review under the PolyForm Noncommercial License 1.0.0: public-safe evidence,
+screenshots, evaluation notes, and an access path for people who want to
+request private review.
 
 ## Public Proof Release
 
@@ -54,7 +56,8 @@ The `v1.6` warehouse evidence summary reports the following 10-seed mean result:
 ## What This Does Not Prove
 
 - It does not publish the private Consequence Warehouse Safety implementation.
-- It does not grant an open-source licence.
+- It is source-available for personal and non-commercial review; it is not an
+  open-source release.
 - It does not grant a commercial licence.
 - It does not grant a patent licence, trademark licence, hosted-service right,
   model-provider right, model-training right, or AI-platform integration right.
@@ -67,14 +70,19 @@ The `v1.6` warehouse evidence summary reports the following 10-seed mean result:
 
 The private implementation remains closed. Access to the private repository,
 source distribution, benchmark internals, full evidence runs, or commercial
-evaluation requires written permission from TWO HANDS NETWORK LTD / Martin
-Ollett and may require a signed NDA.
+evaluation requires written permission from TWO HANDS NETWORK LTD and may
+require a signed NDA.
+
+Commercial licensing enquiries should be directed to the COO of TWO HANDS
+NETWORK LTD or the company licensing contact designated by TWO HANDS NETWORK
+LTD.
 
 Start with:
 
 - [Access Request](ACCESS_REQUEST.md)
 - [NDA Access Path](NDA_ACCESS.md)
 - [Commercial Use](COMMERCIAL_USE.md)
+- [Commercial Licensing](COMMERCIAL-LICENSE.md)
 - [Public Materials License](LICENSE.md)
 - [Proof Scope](PROOF_SCOPE.md)
 - [Publication Checklist](PUBLICATION_CHECKLIST.md)

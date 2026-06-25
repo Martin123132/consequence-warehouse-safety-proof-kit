@@ -12,7 +12,8 @@ engine.
 - machine-readable public metrics summary
 - verification notes and source hash references
 - operator dashboard concept screenshot
-- access, NDA, commercial-use, and licence boundary documents
+- access, NDA, commercial-use, commercial-license, and licence boundary
+  documents
 
 ## Excluded
 
@@ -25,7 +26,7 @@ engine.
 - private tests
 - private deployment tooling
 - customer data
-- commercial licence terms
+- commercial production licence terms
 - patent, trademark, database, hosted-service, or model-training rights
 
 ## Private Engine Boundary
@@ -41,4 +42,3 @@ This public proof kit is expected to remain in a separate public repository:
 The public proof kit may describe results produced by the private engine, but it
 must not include enough implementation detail to reproduce or commercialize the
 engine without permission.
-
